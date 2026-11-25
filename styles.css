@@ -1,1 +1,46 @@
-/*  your css code here. If applicable */
+.main{
+	width:1100px;
+	min-height:100vh;
+	background-color:rgb(203, 214, 203);
+}
+
+
+.imageContainer{
+	width:100%;
+}
+
+.pic{
+	height:350px;
+	width:60%;
+	margin:15px;
+}
+
+table{
+	width:1000px;
+	margin:15px;
+}
+
+.first_ele{
+	width:200px;
+}
+
+.second_ele{
+	width:600px;
+	text-align: center;
+}
+
+.third_ele{
+	width: 200px;
+}
+
+.table-image{
+    width: 95%;
+    height: auto;
+    display: block;
+	margin:5px;
+}
+
+.para{
+	margin-left:5px;
+	margin-right: 5px;
+}
